@@ -16,3 +16,21 @@ Homepage: https://github.com/pystardust/ani-cli
 Description: A cli to browse and watch anime (alone AND with friends).
  This tool scrapes the site gogoplay.
 
+Package: ani-cli
+Version: 3.2.1-1
+Architecture: all
+Maintainer: Nils Wiemer <wiemernils@gmail.com>
+Installed-Size: 44
+Depends: aria2, curl, ffmpeg, grep (>= 3.6), mpv, openssl, sed (>= 4.7)
+Filename: ./ani-cli_3.2.1-1_all.deb
+Size: 11088
+MD5sum: c3817e34d88294dd8db7ff6fe2caa352
+SHA1: 238814eaed6c437a0b640ff640a936c172aa2d28
+SHA256: a479093fc5958aff5d70f44abab3ac8bbc77caa85f31f92b766db45965d6df04
+Section: video
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://github.com/pystardust/ani-cli
+Description: A cli to browse and watch anime (alone AND with friends).
+ This tool scrapes the site gogoplay.
+
